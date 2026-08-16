@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=A.%20Yamini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20%40%20Manakula%20Vinayagar%20Institute%20of%20Technology&descAlignY=62&descSize=16)](https://github.com/yamini-arul)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=A.%20Yamini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20Java%20%26%20Python&descAlignY=62&descSize=16)](https://github.com/yamini-arul)
 
 <div align="center">
 
